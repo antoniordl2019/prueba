@@ -1,7 +1,7 @@
 package prueba;
 
 /**
- * Hello world!
+ * Hello!
  */
 public final class App {
     private App() {
